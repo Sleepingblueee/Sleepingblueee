@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+For my undergraduate thesis at Hong Kong Baptist University, I studied how cultural heritage policies on TikTok have changed over time.
+
 <!--
 **Sleepingblueee/Sleepingblueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
